@@ -83,13 +83,13 @@ p {
 }
 
 .skill-row{
-    width: 40%;
+    width: 45%;
     margin: 200px auto;
     text-align: left;
 }
 
 .certificate-row{
-    width: 40%;
+    width: 45%;
     margin: 20px auto;
     text-align:center;
 }
@@ -100,8 +100,8 @@ p {
 }
 
 .dna_image {
-    width: 35%;
-    height: 35%;
+    width: 30%;
+    height: 30%;
     float: left;
     margin-right: 30px;
 }
