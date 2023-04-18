@@ -82,6 +82,10 @@ p {
     font-weight: bold;
 }
 
+.profile {
+    width: 45%;
+}
+
 .skill-row{
     width: 45%;
     margin: 200px auto;
